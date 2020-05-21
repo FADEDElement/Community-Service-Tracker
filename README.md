@@ -11,4 +11,4 @@ This program uses a sqlite database, it is used to make a login and register sys
 - email based verification system
 
 ## Install
-- [FBLA Community Service Tracker.exe]() v1.0b
+- [FBLA Community Service Tracker.exe]() v1.0b -Not Yet Avaliable-
